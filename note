@@ -1,0 +1,31 @@
+
+/* fonts link */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Ubuntu:wght@300&display=swap');
+
+
+common css:
+    margin: 0;
+    font-family: "Playfair Display", serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #626262;
+
+
+
+nav clr: #626262;
+header border-bottom: #626262;
+nav hover: #b4ad9e;
+
+lifestyle tag:
+    font-family: "Ubuntu", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    text-transform: uppercase;
+
+    tag color: #626262
+    signup h1 color: #333333
+    signup: background color: #f0f0f0
+    input font-family:  "Playfair Display", serif;
+    sign input: border-bottom: 1px solid #333333;
